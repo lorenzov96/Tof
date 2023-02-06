@@ -1,3 +1,5 @@
+import { NavBar } from "./NavBar";
+
 export function Homepage() {
-  return <div>Home</div>;
+  return <NavBar />;
 }
